@@ -1,0 +1,19 @@
+
+   *{
+       background-color: gold;
+   }
+.RR{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:green
+}
+
+.tr{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+}
+
+.TESLA{
+   
+    display:flex;
+justify-content:space-evenly;
+}
